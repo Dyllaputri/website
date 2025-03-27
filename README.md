@@ -1,2 +1,4 @@
 # website
-Website ini merupakan website yang nantinya akan memunculkan quotes random.
+Website ini dirancang untuk menampilkan kutipan (quotes) acak setiap kali pengguna menekan tombol, sehingga memberikan pengalaman yang interaktif dan menarik. Dengan adanya fitur ini, pengguna dapat dengan mudah menemukan kutipan inspiratif tanpa perlu mencari secara manual. Setiap kutipan yang ditampilkan bisa berasal dari berbagai kategori, seperti motivasi, kehidupan, cinta, atau humor, yang dapat memberikan dorongan semangat atau perspektif baru bagi pengguna.
+
+Secara teknis, website ini dapat dibangun menggunakan HTML, CSS, dan JavaScript sebagai teknologi utama. HTML akan digunakan untuk menyusun struktur halaman, CSS untuk memberikan tampilan yang menarik dan responsif, serta JavaScript untuk menangani interaksi pengguna. Dengan fitur-fitur ini, website bertujuan menjadi sumber inspirasi yang mudah diakses kapan saja dan di mana saja. Pengguna dapat dengan cepat mendapatkan kutipan baru hanya dengan sekali klik, menjadikannya platform yang praktis bagi mereka yang mencari motivasi atau sekadar ingin membaca kutipan menarik dalam kehidupan sehari-hari.
